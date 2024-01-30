@@ -17,7 +17,6 @@ h2 {
 }
 
 
-
 p {
   font-size: 24px;
   padding: 10px 0 0 10px;
@@ -46,10 +45,10 @@ div {
   background-color: #FF0000;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 2px solid #FFFFFF; /* Bottom border */
-  border-left: 5px solid #FFFFFF; /* Left border */
-  border-top: none; /* No top border */
-  border-right: none; /* No right border */
+  border-bottom: 2px solid #FFFFFF; 
+  border-left: 5px solid #FFFFFF; 
+  border-top: none; 
+  border-right: none; 
 }
 
 
@@ -57,25 +56,24 @@ div {
   background-color: #0000FF;
   text-align: left;
   margin-right: 50px;
-  border-right: 5px solid #FFFFFF; /* 5px border on the right */
-  border-top: 2px solid #FFFFFF; /* 2px border at the top */
-  border-bottom: none; /* No bottom border */
-  border-left: none; /* No left border */
+  border-right: 5px solid #FFFFFF; 
+  border-top: 2px solid #FFFFFF; 
+  border-bottom: none; 
+  border-left: none; 
   color: #C4C4C4;
 }
 
 .blue h2 {
-  color: #C4C4C4; /* Ensuring all h2 elements in .blue div have this specific color */
+  color: #C4C4C4; 
 }
 
 .yellow {
   background-color: #FFFF00;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 2px solid #FFFFFF; /* 2px border at the bottom */
-  border-left: 5px solid #FFFFFF; /* 5px border on the left */
-  border-top: none; /* No top border */
-border-right: none; /* No right border */
+  border-bottom: 2px solid #FFFFFF; 
+  border-left: 5px solid #FFFFFF; 
+border-right: none; 
   color: #707070;
 }
 
@@ -83,10 +81,10 @@ border-right: none; /* No right border */
   background-color:#008500;;
   text-align: left;
   margin-right: 50px;
-  border-right: 5px solid #FFFFFF; /* 5px border on the right */
-  border-top: 2px solid #FFFFFF; /* 2px border at the top */
-  border-bottom: none; /* No bottom border */
-  border-left: none; /* No left border */
+  border-right: 5px solid #FFFFFF;
+  border-top: 2px solid #FFFFFF; 
+  border-bottom: none; 
+  border-left: none; 
 }
 
 footer {
