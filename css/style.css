@@ -73,7 +73,8 @@ div {
   margin-left: 50px;
   border-bottom: 2px solid #FFFFFF; 
   border-left: 5px solid #FFFFFF; 
-border-right: none; 
+  border-right: none; 
+  border-top: none;
   color: #707070;
 }
 
