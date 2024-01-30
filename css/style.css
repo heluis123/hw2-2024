@@ -44,16 +44,15 @@ div {
   background-color: #FF0000;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 2px;
-  border-left: 5px;
+  border: 0 0 2px 5px; 
 }
+
 
 .blue {
   background-color: #0000FF;
   text-align: left;
   margin-right: 50px;
-  border-right: 5px;
-  border-top: 2px;
+  border: 0 0 2px 5px; 
   color: #C4C4C4;
 }
 
@@ -61,8 +60,7 @@ div {
   background-color: #FFFF00;
   text-align: right;
   margin-left: 50px;
-  border-bottom: 2px;
-  border-left: 5px;
+  border: 0 0 2px 5px; 
   color: #707070;
 }
 
@@ -70,8 +68,7 @@ div {
   background-color: #00EB00;
   text-align: left;
   margin-right: 50px;
-  border-right: 5px;
-  border-top: 2px;
+  border: 0 0 2px 5px; 
 }
 
 footer {
