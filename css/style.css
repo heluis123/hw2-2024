@@ -16,6 +16,8 @@ h2 {
   color: #0D0D0D;
 }
 
+
+
 p {
   font-size: 24px;
   padding: 10px 0 0 10px;
@@ -62,6 +64,10 @@ div {
   color: #C4C4C4;
 }
 
+.blue h2 {
+  color: #C4C4C4; /* Ensuring all h2 elements in .blue div have this specific color */
+}
+
 .yellow {
   background-color: #FFFF00;
   text-align: right;
@@ -74,7 +80,7 @@ border-right: none; /* No right border */
 }
 
 .green {
-  background-color: #00EB00;
+  background-color:#008500;;
   text-align: left;
   margin-right: 50px;
   border-right: 5px solid #FFFFFF; /* 5px border on the right */
